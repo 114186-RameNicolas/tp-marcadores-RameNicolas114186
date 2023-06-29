@@ -1,0 +1,7 @@
+body {
+    height: 100%;
+}
+#carouselExampleFade {
+    max-width: 800px; 
+    margin: 0 auto; 
+} 
